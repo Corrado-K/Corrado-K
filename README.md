@@ -2,7 +2,9 @@
   <h1>Hi there 👋 I am Kebede </h1>
 </div>
 
-
+<div>
+  An software engineer that specializes in fullstack development
+</div>
 
 ---
 
