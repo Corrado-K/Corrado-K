@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  An software engineer that specializes in fullstack development
+  <h3>A software engineer that specializes in fullstack development</h3>
 </div>
 
 ---
