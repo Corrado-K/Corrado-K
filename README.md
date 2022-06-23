@@ -4,7 +4,11 @@
 
 ---
 
-### Hi there 👋 I am Kebede
+<div align="center">
+  ### Hi there 👋 I am Kebede
+</div>
+
+
 
 ---
 
