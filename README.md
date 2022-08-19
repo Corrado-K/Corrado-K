@@ -20,6 +20,13 @@
 
 ---
 
+### Connect with me:
+  <a href="https://www.linkedin.com/in/emmanuel-kebede-martey/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" **alt="LinkedIn" width="40" height="40"/>
+  </a>
+
+---
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
