@@ -47,7 +47,7 @@
 [![Kebede's GitHub stats](https://github-readme-stats.vercel.app/api?username=Corrado-K&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Corrado-K)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Corrado-K&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 https://github-readme-streak-stats.herokuapp.com/?user=your-github-username
