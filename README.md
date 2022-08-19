@@ -6,7 +6,7 @@
   <h3>A software engineer that specializes in fullstack web development</h3>
 </div>
 
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
 
 ---
 
