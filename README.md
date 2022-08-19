@@ -2,11 +2,11 @@
   <h1>Hi there👋, I'm Kebede </h1>
 </div>
 
-<!-- <div align="center">
-  <h3>A software engineer that specializes in fullstack web development</h3>
-</div> -->
+<div align="center">
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2779C8&width=435&lines=I+am+a+Frontend+Developer;I+am+also+a+Backend+Developer;Technically%2C+a+FullStack+Developer)](https://git.io/typing-svg)
+</div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2779C8&width=435&lines=I+am+a+Frontend+Developer;I+am+also+a+Backend+Developer;Technically%2C+a+FullStack+Developer)](https://git.io/typing-svg)
+
 
 ### :man_technologist: About Me :
 
