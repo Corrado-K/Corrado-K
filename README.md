@@ -44,7 +44,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ---
-[![Kebede's GitHub stats](https://github-readme-stats.vercel.app/api?username=Corrado-K&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Kebede's GitHub stats](https://github-readme-stats.vercel.app/api?username=Corrado-K&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 https://github-readme-streak-stats.herokuapp.com/?user=your-github-username
