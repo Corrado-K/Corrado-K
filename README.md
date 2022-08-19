@@ -1,9 +1,9 @@
 <div align="center">
-  <h1>Hi there 👋 I am Kebede </h1>
+  <h1>Hi there👋, I'm Kebede </h1>
 </div>
 
 <div align="center">
-  <h3>A software engineer that specializes in fullstack development</h3>
+  <h3>A software engineer that specializes in fullstack web development</h3>
 </div>
 
 ---
