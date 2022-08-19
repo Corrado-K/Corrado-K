@@ -41,7 +41,7 @@
 ---
 
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=your-github-username
+https://github-readme-streak-stats.herokuapp.com/?user=Corrado-K
 
 <!--
 **Corrado-K/Corrado-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
