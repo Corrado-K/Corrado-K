@@ -10,11 +10,11 @@
 
 ### :man_technologist: About Me :
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Software Engineer. I mostly work on backend than frontend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring Mobile App Development with Flutter.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I play basketball, or video games, or design wireframes.
 
 - :mailbox:How to reach me: kebemartey@gmail.com
 
