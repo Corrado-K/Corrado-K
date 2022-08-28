@@ -14,7 +14,7 @@
 
 - :seedling: Exploring Mobile App Development with Flutter.
 
-- :zap: In my free time, I play basketball, or video games, or design wireframes.
+- :zap: In my free time, I play basketball, or video games.
 
 - :mailbox:How to reach me: kebemartey@gmail.com
 
