@@ -53,7 +53,7 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Corrado-K&theme=algolia&hide_border=false)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Corrado-K&theme=blue-green&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 ---
 [![Kebede's GitHub stats](https://github-readme-stats.vercel.app/api?username=Corrado-K&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
